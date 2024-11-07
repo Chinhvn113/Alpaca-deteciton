@@ -1,0 +1,11 @@
+path: C:/Alpacadataset
+train: images/train
+val: images/val
+
+
+#classes
+names: [Alpaca]
+ 
+
+
+
