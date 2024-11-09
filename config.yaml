@@ -1,11 +1,10 @@
-path: C:/Alpacadataset
+path: /content/drive/MyDrive/Colab Notebooks/Alpacadataset
 train: images/train
 val: images/val
 
 
 #classes
 names: [Alpaca]
- 
 
 
 

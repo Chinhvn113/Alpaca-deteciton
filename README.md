@@ -1,0 +1,1 @@
+##paste từng câu lệnh cà phần note thành từng bước chạy step by step trên google colab
